@@ -32,7 +32,7 @@ Cетевые службы, которые разрешены на машине:
 - https://www.exploit-db.com/exploits/12343
 
 ### Задание 2
-[Результаты сканирования nmap в wireshark](https://github.com/hokum83/13-01/blob/main/img/13-01.pcapng)
+[Результаты сканирования nmap в wireshark](https://github.com/hokum83/13-01/blob/main/13-01.pcapng)
 
 
 Чем отличаются режимы сканирования с точки зрения сетевого трафика?
